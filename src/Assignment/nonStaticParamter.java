@@ -26,6 +26,8 @@ public static void StudentMarks(int sub1,int sub2,int sub3)    ////created stati
 	System.out.println("Marks in English: "+sub2);
 	System.out.println("Marks in Science: "+sub3);
 	System.out.println("===========================");
+	
+	//comments--for GITHUB---1708
 }
 }
 
